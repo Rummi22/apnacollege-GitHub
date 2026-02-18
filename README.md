@@ -1,2 +1,2 @@
 # apnacollege-GitHub
-This is my first GitHub Repository
+This is my first Git Repository
